@@ -1,16 +1,68 @@
-# astro_gallery
+# 🌌 Astro Gallery
 
-A new Flutter project.
+Astro Gallery is a cross-platform mobile application developed using the **Flutter framework** and **Dart programming language**. The app allows users to explore real NASA space content through the **NASA Astronomy Picture of the Day (APOD) API** and the **NASA Image and Video Library API**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌠 Astronomy Picture of the Day (APOD)
+- 🔍 Search functionality for NASA images and videos
+- 🖼️ Detailed media viewing screen
+- ⭐ Favourites section for saving content
+- 📱 Responsive UI for Android and iOS
+- 🌙 Material Design based dark theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- REST APIs
+- HTTP Package
+- Material Design Widgets
+
+---
+
+## 🔗 APIs Used
+
+- NASA APOD API
+- NASA Image and Video Library API
+
+---
+
+## 📚 Concepts Implemented
+
+- Stateless and Stateful Widgets
+- Navigation using `Navigator.push()` and `Navigator.pop()`
+- Asynchronous Programming (`async`, `await`, `FutureBuilder`)
+- API Integration using HTTP requests
+- Responsive UI using Flutter widgets
+- Search functionality using `SearchBar`
+
+---
+
+## 🎨 Design Principles
+
+The application design follows:
+
+- Apple Human Interface Guidelines (HIG)
+- Google Material Design 3 Principles
+- Nielsen’s Usability Heuristics
+
+---
+
+## 📸 Screens Included
+
+- Home Screen
+- Daily Image Screen
+- Search Screen
+- Image Detail Screen
+- Favourites Screen
+
+---
+
+## 🎓 Academic Purpose
+
+This project was developed as part of a **Cross Platform Development coursework project** to demonstrate mobile UI design, API integration, asynchronous programming, and cross-platform application development using Flutter.
