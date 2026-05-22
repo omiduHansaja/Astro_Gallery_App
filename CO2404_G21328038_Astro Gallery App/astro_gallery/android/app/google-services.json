@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058998878297",
+    "project_id": "astro-gallery-database",
+    "storage_bucket": "astro-gallery-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058998878297:android:f4c94906fe6250f326f148",
+        "android_client_info": {
+          "package_name": "com.example.astro_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7FprqqVKWVlUkFvmrGbydEGEvSq0WQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
